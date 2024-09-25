@@ -1,3 +1,7 @@
+# Gem Repo Link
+
+https://github.com/rachityadav730/my_mysql_used_app
+
 # MyMysqlGem
 
 TODO: Delete this and the text below, and describe your gem
